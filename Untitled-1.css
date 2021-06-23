@@ -1,0 +1,18 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+/*--------navigation-------*/
+#navigation bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar-brand img
+{
+    height:40px ;
+padding-left: 30px;
+
+}
